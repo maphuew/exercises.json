@@ -1,0 +1,20 @@
+{
+  "GymAppID": "03b3fe9e-7bce-4aa5-9fe8-9ec85e149ee6",
+  "Name": "Calves-SMR",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": null,
+  "Equipment": "foam roll",
+  "PrimaryMuscles": [
+    "calves"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Begin seated on the floor. Place a foam roller underneath your lower leg. Your other leg can either be crossed over the opposite or be placed on the floor, supporting some of your weight. This will be your starting position.",
+    "Place your hands to your side or just behind you, and press down to raise your hips off of the floor, placing much of your weight against your calf muscle. Roll from below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat for the other leg."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

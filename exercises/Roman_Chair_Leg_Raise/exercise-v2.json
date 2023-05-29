@@ -1,0 +1,17 @@
+{
+  "GymAppID": "f0a9a523-40b3-4698-a305-9081bc81245a",
+  "Name": "Roman Chair Leg Raises",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "intermediate",
+  "Mechanic": "isolation",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": null,
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

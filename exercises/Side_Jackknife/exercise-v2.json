@@ -1,0 +1,17 @@
+{
+  "GymAppID": "7dd6b8d1-2567-453f-8e76-2cd8e08607f7",
+  "Name": "Side Jackknife",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

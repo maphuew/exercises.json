@@ -1,0 +1,25 @@
+{
+  "GymAppID": "0067bd48-76be-4fbc-bfb0-55afbccf50c0",
+  "Name": "Single Leg Butt Kick",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Begin by standing on one leg, with the bent knee raised. This will be your start position.",
+    "Using a countermovement jump, take off upward by extending the hip, knee, and ankle of the grounded leg.",
+    "Immediately flex the knee and attempt to touch your butt with the heel of your jumping leg.",
+    "Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

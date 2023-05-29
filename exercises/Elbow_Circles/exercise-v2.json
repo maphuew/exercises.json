@@ -1,0 +1,23 @@
+{
+  "GymAppID": "2bfd0592-6447-4b08-b2df-1c3ad71cb1af",
+  "Name": "Elbow Circles",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "traps"
+  ],
+  "Instructions": [
+    "Sit or stand with your feet slightly apart.",
+    "Place your hands on your shoulders with your elbows at shoulder level and pointing out.",
+    "Slowly make a circle with your elbows. Breathe out as you start the circle and breathe in as you complete the circle."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

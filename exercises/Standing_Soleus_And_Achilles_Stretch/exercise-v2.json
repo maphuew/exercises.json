@@ -1,0 +1,20 @@
+{
+  "GymAppID": "6210db6c-1b90-45c6-a8b9-bfad93e4c3f7",
+  "Name": "Standing Soleus And Achilles Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "calves"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
+    "Bend both knees, keeping your back heel on the floor. Switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

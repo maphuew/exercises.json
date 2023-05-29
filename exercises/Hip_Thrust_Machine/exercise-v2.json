@@ -1,0 +1,19 @@
+{
+  "GymAppID": "582fc66e-6526-439e-bde9-c375fd5cbe0f",
+  "Name": "Hip Thrust Machine",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "glutes"
+  ],
+  "SecondaryMuscles": [
+    "hamstrings"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "powerlifting"
+}

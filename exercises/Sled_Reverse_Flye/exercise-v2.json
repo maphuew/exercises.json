@@ -1,0 +1,22 @@
+{
+  "GymAppID": "ddd17871-d763-42be-a8ae-2e9860869926",
+  "Name": "Sled Reverse Flye",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Attach dual handles to a sled connected by a rope or chain. Load the sled to a light weight.",
+    "Face the sled, backing up until there is some tension in the line. Take both handles at arms length at about waist level. Bend the knees slightly and keep your chest and head up. This will be your starting position.",
+    "Without flexing the elbow, pull the handles upward and apart, performing a reverse fly with some external rotation. Your palms should be facing forward as you do this.",
+    "Return to the starting position, taking a couple steps back to take the slack out of the line."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

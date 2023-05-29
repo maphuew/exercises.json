@@ -1,0 +1,24 @@
+{
+  "GymAppID": "62447b62-933a-4f09-8e36-99bf567fa897",
+  "Name": "Rocket Jump",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
+    "To initiate the move, squat down halfway and explode back up as high as possible.",
+    "Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

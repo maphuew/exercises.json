@@ -1,0 +1,23 @@
+{
+  "GymAppID": "7011b6b9-02c3-43ee-bb2b-e2a92407e839",
+  "Name": "The Straddle",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [
+    "adductors",
+    "calves"
+  ],
+  "Instructions": [
+    "Begin in a seated, upright position. Start by extending your legs in front of you in a V.",
+    "With your hands on the floor, lean forward as far as possible. Hold for 10 to 20 seconds."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

@@ -1,0 +1,20 @@
+{
+  "GymAppID": "5b3b5e0e-1b0d-4f3b-9a60-e950d94a412a",
+  "Name": "Side Neck Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "neck"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
+    "Assist stretch with a gentle pull on the side of the head."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

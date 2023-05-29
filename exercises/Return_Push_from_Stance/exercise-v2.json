@@ -1,0 +1,26 @@
+{
+  "GymAppID": "887cce12-53b6-4512-81ce-3a2368e5b6f0",
+  "Name": "Return Push from Stance",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "medicine ball",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "Instructions": [
+    "You will need a partner for this drill.",
+    "Begin in an athletic 2 or 3 point stance.",
+    "At the signal, move into a position to receive the pass from your partner.",
+    "Catch the medicine ball with both hands and immediately throw it back to your partner.",
+    "You can modify this drill by running different routes."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

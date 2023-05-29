@@ -1,0 +1,27 @@
+{
+  "GymAppID": "fbe80330-ecf6-4331-96fe-518e60f8f557",
+  "Name": "Bent Over Low-Pulley Side Lateral",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "lower back",
+    "middle back",
+    "traps"
+  ],
+  "Instructions": [
+    "Select a weight and hold the handle of the low pulley with your right hand.",
+    "Bend at the waist until your torso is nearly parallel to the floor. Your legs should be slightly bent with your left hand placed on your lower left thigh. Your right arm should be hanging from your shoulder in front of you and with a slight bend at the elbow. This will be your starting position.",
+    "Raise your right arm, elbow slightly bent, to the side until the arm is parallel to the floor and in line with your right ear. Breathe out as you perform this step.",
+    "Slowly lower the weight back to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions and repeat the movement with the other arm."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

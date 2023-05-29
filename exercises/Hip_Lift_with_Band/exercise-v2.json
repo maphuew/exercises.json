@@ -1,0 +1,25 @@
+{
+  "GymAppID": "4f63f77d-6ea0-40ce-a5f0-62c159af55cb",
+  "Name": "Hip Lift with Band",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "bands",
+  "PrimaryMuscles": [
+    "glutes"
+  ],
+  "SecondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "After choosing a suitable band, lay down in the middle of the rack, after securing the band on either side of you. If your rack doesn\u0027t have pegs, the band can be secured using heavy dumbbells or similar objects, just ensure they won\u0027t move.",
+    "Adjust your position so that the band is directly over your hips. Bend your knees and place your feet flat on the floor. Your hands can be on the floor or holding the band in position.",
+    "Keeping your shoulders on the ground, drive through your heels to raise your hips, pushing into the band as high as you can.",
+    "Pause at the top of the motion, and return to the starting position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "powerlifting"
+}

@@ -1,0 +1,22 @@
+{
+  "GymAppID": "8cc49b12-e968-4d5a-bda8-643772104657",
+  "Name": "Finger Curls",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "forearms"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
+    "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.",
+    "Lower the bar as far as possible by extending the fingers. Allowing the bar to roll down the hands, catch the bar with the final joint in the fingers.",
+    "Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

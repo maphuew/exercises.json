@@ -1,0 +1,20 @@
+{
+  "GymAppID": "8547a6a8-ab54-4ef3-acd1-3f1758223de5",
+  "Name": "Quadriceps-SMR",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": "isolation",
+  "Equipment": "foam roll",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Lay facedown on the floor with your weight supported by your hands or forearms. Place a foam roll underneath one leg on the quadriceps, and keep the foot off of the ground. Make sure to relax the leg as much as possible. This will be your starting position.",
+    "Shifting as much weight onto the leg to be stretched as is tolerable, roll over the foam from above the knee to below the hip, holding points of tension for 10-30 seconds. Switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

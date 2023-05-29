@@ -1,0 +1,17 @@
+{
+  "GymAppID": "f019883d-aabc-4686-848f-1ab33be6e2f5",
+  "Name": "Lateral Raise Machine",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "isolation",
+  "Equipment": "machine",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

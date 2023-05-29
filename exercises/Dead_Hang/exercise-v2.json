@@ -1,0 +1,19 @@
+{
+  "GymAppID": "1ad8e3da-7697-4e67-a4a3-0328ef8042c6",
+  "Name": "Dead Hang",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "lats"
+  ],
+  "SecondaryMuscles": [
+    "biceps"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

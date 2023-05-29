@@ -1,0 +1,26 @@
+{
+  "GymAppID": "ec9b60bf-3890-4e72-9a1a-2c477e04dd7e",
+  "Name": "Push-Ups With Feet On An Exercise Ball",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "exercise ball",
+  "PrimaryMuscles": [
+    "chest"
+  ],
+  "SecondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "Instructions": [
+    "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
+    "Place your toes on top of an exercise ball. This will allow your body to be elevated.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

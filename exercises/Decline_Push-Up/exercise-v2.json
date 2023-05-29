@@ -1,0 +1,25 @@
+{
+  "GymAppID": "0b75bc11-58fa-4026-a6c4-d2005ff382f1",
+  "Name": "Decline Push-Up",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "chest"
+  ],
+  "SecondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "Instructions": [
+    "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length. Move your feet up to a box or bench. This will be your starting position.",
+    "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
+    "Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
+    "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

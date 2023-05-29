@@ -1,0 +1,20 @@
+{
+  "GymAppID": "d082b68e-8fa4-4fe4-a1df-f3b3da5cf798",
+  "Name": "Peroneals Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "calves"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",
+    "With the leg extended and the heel off of the ground, pull on the belt so that the foot is inverted, with the inside of the foot being pulled towards you. Hold for 10-20 seconds, and then switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

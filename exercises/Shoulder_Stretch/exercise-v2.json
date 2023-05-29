@@ -1,0 +1,19 @@
+{
+  "GymAppID": "104b35a6-1915-48ea-ba40-15250582a18d",
+  "Name": "Shoulder Stretch",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Reach your left arm across your body and hold it straight."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

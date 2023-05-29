@@ -1,0 +1,28 @@
+{
+  "GymAppID": "bc0554c0-0127-4d61-8022-51d0bb9b33ac",
+  "Name": "Heaving Snatch Balance",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "Instructions": [
+    "This drill helps you learn the snatch. Begin by holding a light weight across the back of the shoulders. Your feet should be slightly wider than hip width apart with the feet turned out, the same position that you would perform a squat with.",
+    "Begin by dipping with the knees slightly, and popping back up to briefly unload the bar. Drive yourself underneath the bar, elevating it overhead as you descend into a full squat.",
+    "Return to a standing position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "olympic weightlifting"
+}

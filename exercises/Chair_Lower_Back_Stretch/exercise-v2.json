@@ -1,0 +1,23 @@
+{
+  "GymAppID": "4fa8a2a8-df0b-4301-a523-c0ed7a9dda6a",
+  "Name": "Chair Lower Back Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "lats"
+  ],
+  "SecondaryMuscles": [
+    "lower back"
+  ],
+  "Instructions": [
+    "Sit upright on a chair.",
+    "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",
+    "Hold for 10 seconds, and repeat for your other side."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

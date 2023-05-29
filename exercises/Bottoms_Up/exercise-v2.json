@@ -1,0 +1,21 @@
+{
+  "GymAppID": "64e25b0b-d33d-47cd-a97f-9433c428eed6",
+  "Name": "Bottoms Up",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Begin by lying on your back on the ground. Your legs should be straight and your arms at your side. This will be your starting position.",
+    "To perform the movement, tuck the knees toward your chest by flexing the hips and knees. Following this, extend your legs directly above you so that they are perpendicular to the ground. Rotate and elevate your pelvis to raise your glutes from the floor.",
+    "After a brief pause, return to the starting position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

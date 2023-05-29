@@ -1,0 +1,23 @@
+{
+  "GymAppID": "d3c37768-0cf7-4a5e-9f68-ed6acd0e3110",
+  "Name": "Kettlebell Seated Press",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "kettlebells",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "triceps"
+  ],
+  "Instructions": [
+    "Sit on the floor and spread your legs out comfortably.",
+    "Clean one kettlebell to your shoulder.",
+    "Press the kettlebell up and out until it is locked out overhead. Return to the starting position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

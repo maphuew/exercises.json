@@ -1,0 +1,24 @@
+{
+  "GymAppID": "41c2b53c-d2d7-4f2c-a333-ea31965c2481",
+  "Name": "Chair Leg Extended Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [
+    "adductors"
+  ],
+  "Instructions": [
+    "Sit upright in a chair and grip the seat on the sides.",
+    "Raise one leg, extending the knee, flexing the ankle as you do so.",
+    "Slowly move that leg outward as far as you can, and then back to the center and down.",
+    "Repeat for your other leg."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

@@ -1,0 +1,24 @@
+{
+  "GymAppID": "d6664b18-bbb5-48be-b798-77b832e6dccd",
+  "Name": "Cat Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "lower back"
+  ],
+  "SecondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "Instructions": [
+    "Position yourself on the floor on your hands and knees.",
+    "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
+    "Hold for 15 seconds."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

@@ -1,0 +1,24 @@
+{
+  "GymAppID": "51ff1480-c8f9-4e6a-965d-3264f96bdbff",
+  "Name": "Tuck Crunch",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
+    "Your legs should be crossed by wrapping one ankle around the other. Slowly elevate your legs up in the air until your thighs are perpendicular to the floor with a slight bend at the knees. Note: Your knees and toes should be parallel to the floor as opposed to the thighs.",
+    "Move your arms from the floor and cross them so they are resting on your chest. This is the starting position.",
+    "While keeping your lower back pressed against the floor, slowly lift your torso. Remember to exhale while perform this part of the exercise.",
+    "Slowly begin to lower your torso back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

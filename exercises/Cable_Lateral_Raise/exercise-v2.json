@@ -1,0 +1,20 @@
+{
+  "GymAppID": "3b0f0a21-5652-40ca-9325-5dd8c8312bdd",
+  "Name": "Cable Lateral Raise",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

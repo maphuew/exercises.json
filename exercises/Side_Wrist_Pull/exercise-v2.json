@@ -1,0 +1,23 @@
+{
+  "GymAppID": "f8dd486e-7deb-460a-b5d3-51b7de3309bb",
+  "Name": "Side Wrist Pull",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "forearms",
+    "lats"
+  ],
+  "Instructions": [
+    "This stretch works best standing. Cross your left arm over the midline of your body and hold the left wrist in your right hand down at the level of your hips. Start the stretch with a bent left arm.",
+    "Slowly straighten, pull, and lift it up to shoulder height, as pictured. Feel this stretch originate in your back, not your shoulders, and don\u0027t pull too hard on the shoulders joint. Switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

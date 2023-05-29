@@ -1,0 +1,20 @@
+{
+  "GymAppID": "2f740381-c520-4d4a-99fb-40c05ec7f62e",
+  "Name": "Front Leg Raises",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Stand next to a chair or other support, holding on with one hand.",
+    "Swing your leg forward, keeping the leg straight. Continue with a downward swing, bringing the leg as far back as your flexibility allows. Repeat 5-10 times, and then switch legs."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

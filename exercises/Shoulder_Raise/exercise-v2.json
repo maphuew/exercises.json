@@ -1,0 +1,21 @@
+{
+  "GymAppID": "cb1ff0b8-7ab7-4fc7-91c9-82acf7720ccb",
+  "Name": "Shoulder Raise",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "lats"
+  ],
+  "Instructions": [
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

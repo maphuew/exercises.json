@@ -1,0 +1,17 @@
+{
+  "GymAppID": "2dd14a61-7814-4da6-a0a4-76b15280fa08",
+  "Name": "Cable Triceps Kickback",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "triceps"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

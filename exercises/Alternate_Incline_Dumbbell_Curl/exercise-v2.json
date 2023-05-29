@@ -1,0 +1,25 @@
+{
+  "GymAppID": "a8f7ace6-14f5-4fcd-9baf-14fec51088b2",
+  "Name": "Alternate Incline Dumbbell Curl",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "dumbbell",
+  "PrimaryMuscles": [
+    "biceps"
+  ],
+  "SecondaryMuscles": [
+    "forearms"
+  ],
+  "Instructions": [
+    "Sit down on an incline bench with a dumbbell in each hand being held at arms length. Tip: Keep the elbows close to the torso.This will be your starting position.",
+    "While holding the upper arm stationary, curl the right weight forward while contracting the biceps as you breathe out. As you do so, rotate the hand so that the palm is facing up. Continue the movement until your biceps is fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Tip: Only the forearms should move.",
+    "Slowly begin to bring the dumbbell back to starting position as your breathe in.",
+    "Repeat the movement with the left hand. This equals one repetition.",
+    "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

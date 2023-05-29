@@ -1,0 +1,17 @@
+{
+  "GymAppID": "2714caa8-06c0-47fa-9aaa-d5e91227bf35",
+  "Name": "Cable Reverse Flyes",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

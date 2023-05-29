@@ -1,0 +1,20 @@
+{
+  "GymAppID": "db188de2-cca0-4f57-a8d4-6a130633420c",
+  "Name": "Latissimus Dorsi-SMR",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "foam roll",
+  "PrimaryMuscles": [
+    "lats"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "While lying on the floor, place a foam roll under your back and to one side, just behind your arm pit. This will be your starting position.",
+    "Keep the arm of the side being stretched behind and to the side of you as you shift your weight onto your lats, keeping your upper body off of the ground. Hold for 10-30 seconds, and switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

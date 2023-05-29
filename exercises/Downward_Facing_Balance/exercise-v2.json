@@ -1,0 +1,23 @@
+{
+  "GymAppID": "820c01d0-a8b2-480f-a436-d0183d1bc792",
+  "Name": "Downward Facing Balance",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": "isolation",
+  "Equipment": "exercise ball",
+  "PrimaryMuscles": [
+    "glutes"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Lie facedown on top of an exercise ball.",
+    "While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

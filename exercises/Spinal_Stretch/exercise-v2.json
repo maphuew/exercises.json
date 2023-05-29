@@ -1,0 +1,27 @@
+{
+  "GymAppID": "37fbed29-6317-481b-9ab1-19800f50487a",
+  "Name": "Spinal Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "middle back"
+  ],
+  "SecondaryMuscles": [
+    "lats",
+    "lower back",
+    "neck",
+    "traps"
+  ],
+  "Instructions": [
+    "Sit in a chair so your back is straight and your feet planted on the floor.",
+    "Interlace your fingers behind your head, elbows out and your chin down.",
+    "Twist your upper body to one side about 3 times as far as you can. Then lean forward and twist your torso to reach your elbow to the floor on the inside of your knee.",
+    "Return to upright position and then repeat for your other side."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

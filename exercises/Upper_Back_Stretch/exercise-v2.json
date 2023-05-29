@@ -1,0 +1,21 @@
+{
+  "GymAppID": "e2e9b5d5-19d5-4b4d-9e48-7321947dd1e1",
+  "Name": "Upper Back Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "middle back"
+  ],
+  "SecondaryMuscles": [
+    "middle back"
+  ],
+  "Instructions": [
+    "Clasp fingers together with your thumbs pointing down, round your shoulders as you reach your hands forward."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

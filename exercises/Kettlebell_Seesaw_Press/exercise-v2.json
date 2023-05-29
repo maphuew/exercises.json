@@ -1,0 +1,23 @@
+{
+  "GymAppID": "c1bfaf9a-7743-423e-bce6-ee1ab94c7b74",
+  "Name": "Kettlebell Seesaw Press",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "kettlebells",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "triceps"
+  ],
+  "Instructions": [
+    "Clean two kettlebells two your shoulders.",
+    "Press one kettlebell.",
+    "Lower the kettlebell and immediately press the other kettlebell. Make sure to do the same amount of reps on both sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

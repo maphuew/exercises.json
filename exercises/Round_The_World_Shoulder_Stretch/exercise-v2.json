@@ -1,0 +1,24 @@
+{
+  "GymAppID": "18153358-772d-4210-8063-2b36c12e9fbc",
+  "Name": "Round The World Shoulder Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "biceps",
+    "chest"
+  ],
+  "Instructions": [
+    "Stand up straight with your legs together, holding a bodybar or broomstick.",
+    "Hold the pole behind your hips with a wider than shoulder width grip. Your palms should be down and your thumbs facing out.",
+    "Slowly lift your arms up behind your head. Don\u0027t force it if it gets hard to lift further."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

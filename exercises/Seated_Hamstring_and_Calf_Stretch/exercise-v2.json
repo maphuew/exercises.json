@@ -1,0 +1,22 @@
+{
+  "GymAppID": "9b8c3467-99c5-46af-b2ea-d8fad09f9f9b",
+  "Name": "Seated Hamstring and Calf Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [
+    "calves"
+  ],
+  "Instructions": [
+    "Loop a belt, rope, or band around one foot. Sit down with both legs extended . This will be your starting position.",
+    "Leaning forward slightly, pull on the belt to draw the toes of your foot back. Hold this position for 10-20 seconds and then repeat with the other leg."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

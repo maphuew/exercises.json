@@ -1,0 +1,23 @@
+{
+  "GymAppID": "2b548438-9d62-4e2f-b79a-4125ce32a603",
+  "Name": "Seated Hamstring",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "expert",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [
+    "calves"
+  ],
+  "Instructions": [
+    "In a seated position with your legs extended, have your partner stand behind you. Now, lean forward as your partner braces your shoulders with their hands. This will be your starting position.",
+    "Attempt to push your torso back for 10-20 seconds, as your partner prevents any actual movement of your torso.",
+    "Now relax your muscles as your partner increases the stretch by gently pushing your torso forward for 10-20 seconds."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

@@ -1,0 +1,22 @@
+{
+  "GymAppID": "8a1f925e-75c9-4ab4-bc0a-fd6e52424609",
+  "Name": "Adductor/Groin",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "adductors"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Lie on your back with your feet raised towards the ceiling.",
+    "Have your partner hold your feet or ankles. Abduct your legs as far as you can. This will be your starting position.",
+    "Attempt to squeeze your legs together for 10 or more seconds, while your partner prevents you from doing so.",
+    "Now, relax the muscles in your legs as your partner pushes your feet apart, stretching as far as is comfortable for you. Be sure to let your partner know when the stretch is adequate to prevent overstretching or injury."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

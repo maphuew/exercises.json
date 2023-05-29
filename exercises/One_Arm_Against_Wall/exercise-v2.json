@@ -1,0 +1,20 @@
+{
+  "GymAppID": "7309c2ee-417b-42d4-90e9-bbe6bd0ab48e",
+  "Name": "One Arm Against Wall",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "lats"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "From a standing position, place a bent arm against a wall or doorway.",
+    "Slowly lean toward your arm until you feel a stretch in your lats."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

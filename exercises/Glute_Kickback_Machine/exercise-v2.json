@@ -1,0 +1,19 @@
+{
+  "GymAppID": "5c90ae89-72a7-4bbd-9af6-0c3988bcb7e6",
+  "Name": "Glute Kickback Machine",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "machine",
+  "PrimaryMuscles": [
+    "glutes"
+  ],
+  "SecondaryMuscles": [
+    "hamstrings"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

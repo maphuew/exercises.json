@@ -1,0 +1,24 @@
+{
+  "GymAppID": "b7b21370-2cee-48df-99a4-dc6a0e42ee86",
+  "Name": "Balance Board",
+  "Aliases": null,
+  "Force": null,
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "calves"
+  ],
+  "SecondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "Instructions": [
+    "Place a balance board in front of you.",
+    "Stand up on it and try to balance yourself.",
+    "Hold the balance for as long as desired."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

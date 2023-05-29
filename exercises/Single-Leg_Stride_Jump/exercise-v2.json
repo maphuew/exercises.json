@@ -1,0 +1,26 @@
+{
+  "GymAppID": "37dd9b7a-69aa-42e6-949d-4b7aeef2aac0",
+  "Name": "Single-Leg Stride Jump",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+    "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+    "Land in the same position that you started, using your inside leg to decelerate the impact."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

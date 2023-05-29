@@ -1,0 +1,20 @@
+{
+  "GymAppID": "75d14c0b-12f5-42d5-9c3d-5152ca2c1188",
+  "Name": "Torso Rotation",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "exercise ball",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Stand upright holding an exercise ball with both hands. Extend your arms so the ball is straight out in front of you. This will be your starting position.",
+    "Rotate your torso to one side, keeping your eyes on the ball as you move. Now, rotate back to the opposite direction. Repeat for 10-20 repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

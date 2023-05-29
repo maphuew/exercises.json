@@ -1,0 +1,25 @@
+{
+  "GymAppID": "dd7b4457-d5c8-4de8-8343-0aba300bb5f8",
+  "Name": "Body-Up",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "isolation",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "triceps"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "forearms"
+  ],
+  "Instructions": [
+    "Assume a plank position on the ground. You should be supporting your bodyweight on your toes and forearms, keeping your torso straight. Your forearms should be shoulder-width apart. This will be your starting position.",
+    "Pressing your palms firmly into the ground, extend through the elbows to raise your body from the ground. Keep your torso rigid as you perform the movement.",
+    "Slowly lower your forearms back to the ground by allowing the elbows to flex.",
+    "Repeat."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

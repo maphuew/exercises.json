@@ -1,0 +1,20 @@
+{
+  "GymAppID": "946d19a8-03a8-4f4a-b5ea-b612f732385d",
+  "Name": "Posterior Tibialis Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "calves"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",
+    "With the leg extended and the heel off of the ground, pull on the belt so that the foot is everted, with the outside of the foot being pulled towards you. Hold for 10-20 seconds, and then switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

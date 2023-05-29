@@ -1,0 +1,22 @@
+{
+  "GymAppID": "23211590-6d25-455f-ad77-c9ad02e6ebb0",
+  "Name": "Cable Rear Delt Fly",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Adjust the pulleys to the appropriate height and adjust the weight. The pulleys should be above your head.",
+    "Grab the left pulley with your right hand and the right pulley with your left hand, crossing them in front of you. This will be your starting position.",
+    "Initiate the movement by moving your arms back and outward, keeping your arms straight as you execute the movement.",
+    "Pause at the end of the motion before returning the handles to the start position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

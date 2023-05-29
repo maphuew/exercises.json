@@ -1,0 +1,29 @@
+{
+  "GymAppID": "138105b1-eae0-4f0e-be51-78192939b2b1",
+  "Name": "One Arm Chin-Up",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "expert",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "middle back"
+  ],
+  "SecondaryMuscles": [
+    "biceps",
+    "forearms",
+    "lats"
+  ],
+  "Instructions": [
+    "For this exercise, start out by placing a towel around a chin up bar.",
+    "Grab the chin-up bar with your palm facing you. One hand will be grabbing the chin-up bar and the other will be grabbing the towel.",
+    "Bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.v",
+    "Pull your torso up until the bar touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
+    "Repeat this motion for the prescribed amount of repetitions.",
+    "Switch arms and repeat the movement."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

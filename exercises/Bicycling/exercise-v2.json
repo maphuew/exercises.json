@@ -1,0 +1,23 @@
+{
+  "GymAppID": "5e8ca151-1cfe-42ae-a495-2109fc39e2e8",
+  "Name": "Bicycling",
+  "Aliases": null,
+  "Force": null,
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "To begin, seat yourself on the bike and adjust the seat to your height."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "cardio"
+}

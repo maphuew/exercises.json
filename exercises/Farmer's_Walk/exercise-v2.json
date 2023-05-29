@@ -1,0 +1,28 @@
+{
+  "GymAppID": "28c87cc3-6a3e-49ce-9d04-2aa6003d3b48",
+  "Name": "Farmer\u0027s Walk",
+  "Aliases": null,
+  "Force": null,
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "forearms"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "Instructions": [
+    "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren\u0027t available. Begin by standing between the implements.",
+    "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
+    "Walk taking short, quick steps, and don\u0027t forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strongman"
+}

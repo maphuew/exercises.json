@@ -1,0 +1,23 @@
+{
+  "GymAppID": "ac61e8e6-513f-4c27-bc1d-1a46e1747f14",
+  "Name": "Chair Upper Body Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "biceps",
+    "chest"
+  ],
+  "Instructions": [
+    "Sit on the edge of a chair, gripping the back of it.",
+    "Straighten your arms, keeping your back straight, and pull your upper body forward so you feel a stretch. Hold for 20-30 seconds."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

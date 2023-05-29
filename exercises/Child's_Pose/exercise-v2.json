@@ -1,0 +1,24 @@
+{
+  "GymAppID": "f035e0bb-e831-467f-a95d-f6cf790d6487",
+  "Name": "Child\u0027s Pose",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "lower back"
+  ],
+  "SecondaryMuscles": [
+    "glutes",
+    "middle back"
+  ],
+  "Instructions": [
+    "Get on your hands and knees, walk your hands in front of you.",
+    "Lower your buttocks down to sit on your heels. Let your arms drag along the floor as you sit back to stretch your entire spine.",
+    "Once you settle onto your heels, bring your hands next to your feet and relax. \u0022breathe\u0022 into your back. Rest your forehead on the floor. Avoid this position if you have knee problems."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

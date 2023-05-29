@@ -1,0 +1,17 @@
+{
+  "GymAppID": "ceaeb391-53cd-43a0-8635-6505781ecd77",
+  "Name": "Side Plank",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

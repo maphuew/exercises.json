@@ -1,0 +1,24 @@
+{
+  "GymAppID": "1ca34ca9-3e8c-4951-ab7e-cac1b55e7a55",
+  "Name": "Barbell Incline Shoulder Raise",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "chest"
+  ],
+  "Instructions": [
+    "Lie back on an Incline Bench. Using a medium width grip (a grip that is slightly wider than shoulder width), lift the bar from the rack and hold it straight over you with your arms straight. This will be your starting position.",
+    "While keeping the arms straight, lift the bar by protracting your shoulder blades, raising the shoulders from the bench as you breathe out.",
+    "Bring back the bar to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

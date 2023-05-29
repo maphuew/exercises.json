@@ -1,0 +1,21 @@
+{
+  "GymAppID": "10fca2fd-8655-40c5-a2a2-163ba3f90ad8",
+  "Name": "Calf Stretch Elbows Against Wall",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "calves"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Stand facing a wall from a couple feet away.",
+    "Lean against the wall, placing your weight on your forearms.",
+    "Attempt to keep your heels on the ground. Hold for 10-20 seconds. You may move further or closer the wall, making it more or less difficult, respectively."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

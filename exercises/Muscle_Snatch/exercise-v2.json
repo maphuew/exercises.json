@@ -1,0 +1,27 @@
+{
+  "GymAppID": "a218a0c9-b246-4ce1-8977-c2b3de8b3fa3",
+  "Name": "Muscle Snatch",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
+  "Instructions": [
+    "Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
+    "Begin the pull by driving through the front of the heels, raising the bar. Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body.",
+    "Continue raising the bar to the overhead position, without rebending the knees."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "olympic weightlifting"
+}

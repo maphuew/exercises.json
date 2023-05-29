@@ -1,0 +1,26 @@
+{
+  "GymAppID": "7f487b08-de0e-4d41-90f6-ed6d603b5389",
+  "Name": "Weighted Sissy Squat",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "expert",
+  "Mechanic": "compound",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Standing upright, with feet at shoulder width and toes raised, use one hand to hold onto the beams of a squat rack and the opposite arm to hold a plate on top of your chest. This is your starting position.",
+    "As you use one arm to hold yourself, bend at the knees and slowly lower your torso toward the ground by bringing your pelvis and knees forward. Inhale as you go down and stop when your upper and lower legs almost create a 90-degree angle. Hold the stretch position for a second.",
+    "After your one second hold, use your thigh muscles to bring your torso back up to the starting position. Exhale as you move up.",
+    "Repeat for the recommended amount of times."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

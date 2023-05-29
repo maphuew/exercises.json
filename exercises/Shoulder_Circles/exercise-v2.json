@@ -1,0 +1,22 @@
+{
+  "GymAppID": "92eae4d3-3e2b-4705-8144-828cdadc1d92",
+  "Name": "Shoulder Circles",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "traps"
+  ],
+  "Instructions": [
+    "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you\u0027re seated), gently roll your shoulders forward, up, back, and down.",
+    "Reverse direction. You can do this exercise alternating shoulders or both at the same time."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

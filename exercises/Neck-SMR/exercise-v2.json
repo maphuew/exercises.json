@@ -1,0 +1,20 @@
+{
+  "GymAppID": "77add39d-f022-4771-9513-f6ad06b111e3",
+  "Name": "Neck-SMR",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "neck"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Using a muscle roller or a rolling pin, place the roller behind your head and against your neck. Make sure that you do not place the roller directly against the spine, but turned slightly so that the roller is pressed against the muscles to either side of the spine. This will be your starting position.",
+    "Starting at the top of your neck, slowly roll down the muscles of your neck, pausing at points of tension for 10-30 seconds."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

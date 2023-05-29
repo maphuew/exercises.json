@@ -1,0 +1,23 @@
+{
+  "GymAppID": "afc718f9-990b-4367-85d1-6f16e2b1ed16",
+  "Name": "Physioball Hip Bridge",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "exercise ball",
+  "PrimaryMuscles": [
+    "glutes"
+  ],
+  "SecondaryMuscles": [
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Lay on a ball so that your upper back is on the ball with your hips unsupported. Both feet should be flat on the floor, hip width apart or wider. This will be your starting position.",
+    "Begin by extending the hips using your glutes and hamstrings, raising your hips upward as you bridge.",
+    "Pause at the top of the motion and return to the starting position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

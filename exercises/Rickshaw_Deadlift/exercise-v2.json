@@ -1,0 +1,27 @@
+{
+  "GymAppID": "276940d1-5013-4461-8fa6-d97319fe43b9",
+  "Name": "Rickshaw Deadlift",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
+  "Instructions": [
+    "Load the frame with the desired weight. Center yourself between the handles. You feet should be about hip width apart. Bend at the hips to grip the handles, allowing your shoulder blades to protract.",
+    "With your feet and your grip set, take a big breath and then lower your hips and flex the knees. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.",
+    "Lower the weight by bending at the hips and guiding it to the ground."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strongman"
+}

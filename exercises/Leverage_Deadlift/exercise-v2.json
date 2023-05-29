@@ -1,0 +1,23 @@
+{
+  "GymAppID": "0e11b4d6-bb51-4d62-ba19-c5144fae86fc",
+  "Name": "Leverage Deadlift",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "machine",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Load the pins to an appropriate weight. Position yourself directly between the handles. Grasp the bottom handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up. This will be your starting position.",
+    "Return the weight to the starting position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

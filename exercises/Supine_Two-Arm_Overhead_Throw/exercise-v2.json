@@ -1,0 +1,26 @@
+{
+  "GymAppID": "65a2393e-f1ad-47c1-ab04-1e58c924c7d6",
+  "Name": "Supine Two-Arm Overhead Throw",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "medicine ball",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [
+    "chest",
+    "lats",
+    "shoulders"
+  ],
+  "Instructions": [
+    "Lay on the ground on your back with your knees bent.",
+    "Hold the ball with both hands, extending the arms fully behind your head. This will be your starting position.",
+    "Initiate the movement at the shoulder, throwing the ball directly forward of you as you sit up, attempting to go for maximum distance.",
+    "The ball can be thrown to a partner or bounced off of a wall."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

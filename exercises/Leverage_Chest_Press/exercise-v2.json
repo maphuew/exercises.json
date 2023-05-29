@@ -1,0 +1,25 @@
+{
+  "GymAppID": "6208dba9-7b95-4675-92f9-c9630b86e44f",
+  "Name": "Leverage Chest Press",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "machine",
+  "PrimaryMuscles": [
+    "chest"
+  ],
+  "SecondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "Instructions": [
+    "Load an appropriate weight onto the pins and adjust the seat for your height. The handles should be near the bottom or middle of the pectorals at the beginning of the motion.",
+    "Your chest and head should be up and your shoulder blades retracted. This will be your starting position.",
+    "Press the handles forward by extending through the elbow.",
+    "After a brief pause at the top, return the weight just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

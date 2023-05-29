@@ -1,0 +1,19 @@
+{
+  "GymAppID": "9290a716-cdc9-4130-8543-ab03b9b604e2",
+  "Name": "Pelvic Tilt Static",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "intermediate",
+  "Mechanic": "isolation",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "glutes"
+  ],
+  "SecondaryMuscles": [
+    "hamstrings"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

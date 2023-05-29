@@ -1,0 +1,25 @@
+{
+  "GymAppID": "a7dc8d4b-15d4-409a-83b6-ef6aef582447",
+  "Name": "Double Kettlebell Snatch",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "expert",
+  "Mechanic": "compound",
+  "Equipment": "kettlebells",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "Instructions": [
+    "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
+    "Swing the kettlebells between your legs forcefully and reverse the direction.",
+    "Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

@@ -1,0 +1,22 @@
+{
+  "GymAppID": "cd75552c-04fb-44df-81dd-c59f509505d3",
+  "Name": "Calf-Machine Shoulder Shrug",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "machine",
+  "PrimaryMuscles": [
+    "traps"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Position yourself on the calf machine so that the shoulder pads are above your shoulders. Your torso should be straight with the arms extended normally by your side. This will be your starting position.",
+    "Raise your shoulders up towards your ears as you exhale and hold the contraction for a full second.",
+    "Slowly return to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

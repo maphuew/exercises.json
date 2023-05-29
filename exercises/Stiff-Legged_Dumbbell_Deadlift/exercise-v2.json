@@ -1,0 +1,26 @@
+{
+  "GymAppID": "5e06e17e-ee6b-4160-a495-fbc50eab0724",
+  "Name": "Stiff-Legged Dumbbell Deadlift",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "dumbbell",
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "Instructions": [
+    "Grasp a couple of dumbbells holding them by your side at arm\u0027s length.",
+    "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
+    "Keeping the knees stationary, lower the dumbbells to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
+    "Start bringing your torso up straight again by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

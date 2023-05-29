@@ -1,0 +1,21 @@
+{
+  "GymAppID": "521734ba-1892-4848-b118-9626f83d183e",
+  "Name": "Leg Press Single Leg",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "machine",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

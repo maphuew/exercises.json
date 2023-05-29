@@ -1,0 +1,20 @@
+{
+  "GymAppID": "27e9dbbf-64c2-4a19-9c1c-ab84a4603b25",
+  "Name": "Side-Lying Floor Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "lats"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "First lie on your left side, bending your left knee in front of you to stabilize your torso (use your abdominal muscles as well to hold you upright).",
+    "Straighten your right leg and rest the right foot on the floor behind your left. Straighten your right arm over your head and gently pull on your right wrist to stretch the entire right side of the body. Switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

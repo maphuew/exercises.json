@@ -1,0 +1,19 @@
+{
+  "GymAppID": "ab1fe7d3-bd2b-4526-8610-55f1fd9d1b05",
+  "Name": "Side Bridge",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [
+    "shoulders"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

@@ -1,0 +1,25 @@
+{
+  "GymAppID": "4a8b99a2-3685-4b72-a8ba-03c325905cb4",
+  "Name": "Catch and Overhead Throw",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "medicine ball",
+  "PrimaryMuscles": [
+    "lats"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "chest",
+    "shoulders"
+  ],
+  "Instructions": [
+    "Begin standing while facing a wall or a partner.",
+    "Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward.",
+    "Ensure that you follow your throw through, being prepared to receive your rebound from your throw. If you are throwing against the wall, make sure that you stand close enough to the wall to receive the rebound, and aim a little higher than you would with a partner."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

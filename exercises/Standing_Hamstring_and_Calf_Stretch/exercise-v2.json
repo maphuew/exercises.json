@@ -1,0 +1,21 @@
+{
+  "GymAppID": "c4fdc000-232f-4a67-989d-19ca6bd1e282",
+  "Name": "Standing Hamstring and Calf Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Being by looping a belt, band, or rope around one foot. While standing, place that foot forward.",
+    "Bend your back leg, while keeping the front one straight. Now raise the toes of your front foot off of the ground and lean forward.",
+    "Using the belt, pull on the top of the foot to increase the stretch in the calf. Hold for 10-20 seconds and repeat with the other foot."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

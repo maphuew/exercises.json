@@ -1,0 +1,24 @@
+{
+  "GymAppID": "df76ff2c-1f9f-4efa-a9c1-8ae50cba9169",
+  "Name": "Seated Cable Shoulder Press",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "triceps"
+  ],
+  "Instructions": [
+    "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 90 degrees to the body, with your head and chest up. The elbows should also be bent to about 90 degrees. This will be your starting position.",
+    "Begin by extending through the elbow, pressing the handles together above your head.",
+    "After pausing at the top, return the handles to the starting position. Ensure that you maintain tension on the cables.",
+    "You can also execute this movement with your back off the pad and alternate hands."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

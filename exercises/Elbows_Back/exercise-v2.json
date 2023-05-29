@@ -1,0 +1,23 @@
+{
+  "GymAppID": "6e125268-0bcc-4e31-8ae9-3e79bea50d27",
+  "Name": "Elbows Back",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "chest"
+  ],
+  "SecondaryMuscles": [
+    "shoulders"
+  ],
+  "Instructions": [
+    "Stand up straight.",
+    "Place both hands on your lower back, fingers pointing downward and elbows out.",
+    "Then gently pull your elbows back aiming to touch them together."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

@@ -1,0 +1,21 @@
+{
+  "GymAppID": "ac67776d-518e-40ca-ab16-fdea63b3d23d",
+  "Name": "Seated Cable Rows - Wide Grip",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "middle back"
+  ],
+  "SecondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

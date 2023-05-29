@@ -1,0 +1,24 @@
+{
+  "GymAppID": "2a4cc008-e130-43cd-b995-6eff4c882d4a",
+  "Name": "Knee Circles",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "calves"
+  ],
+  "SecondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "Instructions": [
+    "Stand with your legs together and hands by your waist.",
+    "Now move your knees in a circular motion as you breathe normally.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

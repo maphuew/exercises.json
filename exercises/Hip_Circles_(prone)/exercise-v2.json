@@ -1,0 +1,23 @@
+{
+  "GymAppID": "26fc4958-3c77-484c-a702-e33b1eef5f54",
+  "Name": "Hip Circles (prone)",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abductors"
+  ],
+  "SecondaryMuscles": [
+    "adductors"
+  ],
+  "Instructions": [
+    "Position yourself on your hands and knees on the ground. Maintaining good posture, raise one bent knee off of the ground. This will be your starting position.",
+    "Keeping the knee in a bent position, rotate the femur in an arc, attempting to make a big circle with your knee.",
+    "Perform this slowly for a number of repetitions, and repeat on the other side."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

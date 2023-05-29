@@ -1,0 +1,29 @@
+{
+  "GymAppID": "f06d78f9-b348-48f9-bf3e-0241bbc10aba",
+  "Name": "Front Cone Hops (or hurdle hops)",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "Instructions": [
+    "Set up a row of cones or other small barriers, placing them a few feet apart.",
+    "Stand in front of the first cone with your feet shoulder width apart. This will be your starting position.",
+    "Begin by jumping with both feet over the first cone, swinging both arms as you jump.",
+    "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next cone.",
+    "Continue until you have jumped over all of the cones."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

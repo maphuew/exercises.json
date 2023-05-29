@@ -1,0 +1,31 @@
+{
+  "GymAppID": "65b61ac7-e64f-4c46-922c-4b1dc01d3ed7",
+  "Name": "Tire Flip",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [
+    "calves",
+    "chest",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "Instructions": [
+    "Begin by gripping the bottom of the tire on the tread, and position your feet back a bit. Your chest should be driving into the tire.",
+    "To lift the tire, extend through the hips, knees, and ankles, driving into the tire and up.",
+    "As the tire reaches a 45 degree angle, step forward and drive a knee into the tire. As you do so adjust your grip to the upper portion of the tire and push it forward as hard as possible to complete the turn. Repeat as necessary."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strongman"
+}

@@ -1,0 +1,25 @@
+{
+  "GymAppID": "9cec8b90-2d56-4969-85af-2606d539e62b",
+  "Name": "Heavy Bag Thrust",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "other",
+  "PrimaryMuscles": [
+    "chest"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "Instructions": [
+    "Utilize a heavy bag for this exercise. Assume an upright stance next to the bag, with your feet staggered, fairly wide apart. Place your hand on the bag at about chest height. This will be your starting position.",
+    "Begin by twisting at the waist, pushing the bag forward as hard as possible. Perform this move quickly, pushing the bag away from your body.",
+    "Receive the bag as it swings back by reversing these steps."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

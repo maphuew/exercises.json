@@ -1,0 +1,20 @@
+{
+  "GymAppID": "cfa924e4-b787-42d4-b42f-72df604b6ac7",
+  "Name": "Standing Hip Flexors",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "quadriceps"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Stand up straight with the spine vertical, the left foot slightly in front of the right.",
+    "Bend both knees and lift the back heel off the floor as you press the right hip forward. You can\u0027t get a thorough, deep stretch in this position, however, because it\u0027s hard to relax the hip flexor and stand on it at the same time. Switch sides."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

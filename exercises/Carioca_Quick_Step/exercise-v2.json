@@ -1,0 +1,28 @@
+{
+  "GymAppID": "4a4af86a-3363-4ad0-b9d9-9f2dbfb38ef0",
+  "Name": "Carioca Quick Step",
+  "Aliases": null,
+  "Force": null,
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "adductors"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "Instructions": [
+    "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",
+    "With your right foot, quick step behind and pull the knee up.",
+    "Fire your arms back up when you pull the right knee, being sure that your knee goes straight up and down. Avoid turning your feet as you move and continue to look forward as you move to the side."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

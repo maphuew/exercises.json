@@ -1,0 +1,23 @@
+{
+  "GymAppID": "e10d58a7-a626-4cae-b701-e357abbdfd26",
+  "Name": "Bottoms-Up Clean From The Hang Position",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "kettlebells",
+  "PrimaryMuscles": [
+    "forearms"
+  ],
+  "SecondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "Instructions": [
+    "Initiate the exercise by standing upright with a kettlebell in one hand.",
+    "Swing the kettlebell back forcefully and then reverse the motion forcefully. Crush the kettlebell handle as hard as possible and raise the kettlebell to your shoulder."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

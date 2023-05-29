@@ -1,0 +1,20 @@
+{
+  "GymAppID": "3890985a-0d2f-4a35-a2da-ab40c1fb4c3b",
+  "Name": "Push Press",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "expert",
+  "Mechanic": "compound",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "quadriceps",
+    "triceps"
+  ],
+  "Instructions": [],
+  "Description": null,
+  "Tips": null,
+  "Category": "olympic weightlifting"
+}

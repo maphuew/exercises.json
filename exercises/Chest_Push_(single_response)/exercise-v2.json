@@ -1,0 +1,25 @@
+{
+  "GymAppID": "7670c0eb-8286-4381-a7db-d961b592a995",
+  "Name": "Chest Push (single response)",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "medicine ball",
+  "PrimaryMuscles": [
+    "chest"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "Instructions": [
+    "Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.",
+    "Execute the pass by exploding forward and outward with the hips while pushing the ball as far as possible.",
+    "Follow through by falling forward, catching yourself with your hands."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "plyometrics"
+}

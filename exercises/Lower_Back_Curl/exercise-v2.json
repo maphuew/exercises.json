@@ -1,0 +1,20 @@
+{
+  "GymAppID": "da0a671e-cff6-4950-bb31-a315ce659fd5",
+  "Name": "Lower Back Curl",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": "body only",
+  "PrimaryMuscles": [
+    "abdominals"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Lie on your stomach with your arms out to your sides. This will be your starting position.",
+    "Using your lower back muscles, extend your spine lifting your chest off of the ground. Do not use your arms to push yourself up. Keep your head up during the movement. Repeat for 10-20 repetitions."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

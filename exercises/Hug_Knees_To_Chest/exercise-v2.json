@@ -1,0 +1,23 @@
+{
+  "GymAppID": "68f5c64e-2574-4319-a8a6-86d16307ec2f",
+  "Name": "Hug Knees To Chest",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "lower back"
+  ],
+  "SecondaryMuscles": [
+    "glutes"
+  ],
+  "Instructions": [
+    "Lie down on your back and pull both knees up to your chest.",
+    "Hold your arms under the knees, not over (that would put to much pressure on your knee joints).",
+    "Slowly pull the knees toward your shoulders. This also stretches your buttocks muscles."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

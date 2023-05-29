@@ -1,0 +1,23 @@
+{
+  "GymAppID": "2c96c8fc-3a19-41fa-ba3a-f47f2f1bf2b7",
+  "Name": "Upward Stretch",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "chest",
+    "lats"
+  ],
+  "Instructions": [
+    "Extend both hands straight above your head, palms touching.",
+    "Slowly push your hands up and back, keeping your back straight."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

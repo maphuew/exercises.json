@@ -1,0 +1,23 @@
+{
+  "GymAppID": "83448bbf-ce83-4a46-8c2a-303467292db0",
+  "Name": "Upper Back-Leg Grab",
+  "Aliases": null,
+  "Force": "static",
+  "Level": "beginner",
+  "Mechanic": null,
+  "Equipment": null,
+  "PrimaryMuscles": [
+    "hamstrings"
+  ],
+  "SecondaryMuscles": [
+    "lower back",
+    "middle back"
+  ],
+  "Instructions": [
+    "While seated, bend forward to hug your thighs from underneath with both arms.",
+    "Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "stretching"
+}

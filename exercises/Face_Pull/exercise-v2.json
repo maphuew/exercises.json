@@ -1,0 +1,21 @@
+{
+  "GymAppID": "12b6a1de-de82-47e5-be8c-a6fc0f82f3d8",
+  "Name": "Face Pull",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "cable",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "middle back"
+  ],
+  "Instructions": [
+    "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

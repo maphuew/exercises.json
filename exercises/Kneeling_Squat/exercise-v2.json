@@ -1,0 +1,25 @@
+{
+  "GymAppID": "84c004a9-de14-49c8-ae03-516095f0f086",
+  "Name": "Kneeling Squat",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "intermediate",
+  "Mechanic": "compound",
+  "Equipment": "barbell",
+  "PrimaryMuscles": [
+    "glutes"
+  ],
+  "SecondaryMuscles": [
+    "abdominals",
+    "hamstrings",
+    "lower back"
+  ],
+  "Instructions": [
+    "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
+    "With your head looking forward, sit back with your butt until you touch your calves.",
+    "Reverse the motion, returning the torso to an upright position."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "powerlifting"
+}

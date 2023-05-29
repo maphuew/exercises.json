@@ -1,0 +1,22 @@
+{
+  "GymAppID": "c5f8c1a1-6d36-4673-8fca-33329692fc9d",
+  "Name": "Machine Bicep Curl",
+  "Aliases": null,
+  "Force": "pull",
+  "Level": "beginner",
+  "Mechanic": "isolation",
+  "Equipment": "machine",
+  "PrimaryMuscles": [
+    "biceps"
+  ],
+  "SecondaryMuscles": [],
+  "Instructions": [
+    "Adjust the seat to the appropriate height and make your weight selection. Place your upper arms against the pads and grasp the handles. This will be your starting position.",
+    "Perform the movement by flexing the elbow, pulling your lower arm towards your upper arm.",
+    "Pause at the top of the movement, and then slowly return the weight to the starting position.",
+    "Avoid returning the weight all the way to the stops until the set is complete to keep tension on the muscles being worked."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}

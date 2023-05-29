@@ -1,0 +1,23 @@
+{
+  "GymAppID": "889d3126-0b0f-41a5-a637-198f6844a0ea",
+  "Name": "Shoulder Press - With Bands",
+  "Aliases": null,
+  "Force": "push",
+  "Level": "beginner",
+  "Mechanic": "compound",
+  "Equipment": "bands",
+  "PrimaryMuscles": [
+    "shoulders"
+  ],
+  "SecondaryMuscles": [
+    "triceps"
+  ],
+  "Instructions": [
+    "To begin, stand on an exercise band so that tension begins at arm\u0027s length. Grasp the handles and lift them so that the hands are at shoulder height at each side.",
+    "Rotate the wrists so that the palms of your hands are facing forward. Your elbows should be bent, with the upper arms and forearms in line to the torso. This is your starting position.",
+    "As you exhale, lift the handles up until your arms are fully extended overhead."
+  ],
+  "Description": null,
+  "Tips": null,
+  "Category": "strength"
+}
